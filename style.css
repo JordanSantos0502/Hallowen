@@ -65,3 +65,25 @@ main{
 .Esqueleto{
     width: 70%;
 }
+
+.Copyright{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 20vh;
+}
+.imageCopy{
+    display: flex;
+    justify-content: space-evenly;
+    width: 25%;
+}
+.textCopy{
+    color: orange;
+    font-family: minhaFonte;
+}
+.Linkedin{
+    width: 55%;
+}
+.FaceBook{
+    width: 15%;
+}
